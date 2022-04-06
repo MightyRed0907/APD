@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: feeb2ad6564258742814d19955c2a161
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrainHose7Mat
+    second: {fileID: 2100000, guid: f4ac2238168214f4cb9d98173521b567, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrainHoseMat
+    second: {fileID: 2100000, guid: 32bb27854c28112478057ac39b26bcea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HeaterHose4Mat
+    second: {fileID: 2100000, guid: 3824e7cfd1e77c14a8bbead079ef8863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HeaterHoseMat
+    second: {fileID: 2100000, guid: bd100c555ed074f4785e6c0ffda202f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HeaterLockMat
+    second: {fileID: 2100000, guid: 0f84fdc80e573574babe16dd426401c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LastSupplyCap3Mat
+    second: {fileID: 2100000, guid: 2fd0a724ed531b34cbfb806d2550541b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LastSupplyCap5_group14Mat
+    second: {fileID: 2100000, guid: baecefc11343c2d4f9a2fbca34ae6754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock______1Mat
+    second: {fileID: 2100000, guid: 3c3ae398df9eca749982d5558fd1ae77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Organizer2_group11_polySurface7Mat
+    second: {fileID: 2100000, guid: 02ff18eafd430c349adeb5aa73abf8d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OrganizerCaps2_HwaterLineCap_pasted__group18_pasted__group12_groupMat
+    second: {fileID: 2100000, guid: a8fb061d8d88a3e418289715d104b2a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OrganizerCaps_pCube16_group13_group12Mat
+    second: {fileID: 2100000, guid: dde8773790ee46d43aa33745a6bcbb26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PatientHoseMat
+    second: {fileID: 2100000, guid: 09e5d57850c45bf4589ac91da3b5725c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SupplyHoseMat
+    second: {fileID: 2100000, guid: 54e4aaf02f0ca674d91ffb7e86d98008, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SupplyLockMat
+    second: {fileID: 2100000, guid: 37a18bb533c08f147912c0942ced6f01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group12_DrainCap5_group17Mat
+    second: {fileID: 2100000, guid: fbc890bf47649be44b8f28e00412a1d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group12_OrganizerCaps_pCylinder14_group15Mat
+    second: {fileID: 2100000, guid: 09dacce9adfbac546b51607a740a8564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group12_SupplyCap_group16Mat
+    second: {fileID: 2100000, guid: 1a9c5ba940cb7d748bafe0ecddc04ae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group13_group12_OrganizerCaps_PatientLineMat
+    second: {fileID: 2100000, guid: 971b3bae0c0242945832a05168149c98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_APDCassetteMat
+    second: {fileID: 2100000, guid: c6c12dd285333714eb6a0ff80a14248e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_DrainCap8_pasted__group19Mat
+    second: {fileID: 2100000, guid: 062ef035038fde04bad060f33adc5924, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_DrainHose6Mat
+    second: {fileID: 2100000, guid: b6c94ffbd35f55d4abffb566e3ef16c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_DrainHoseMat
+    second: {fileID: 2100000, guid: 8d3452f2ea11bac408cdceb08ba4ede1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_DrainHoseYMat
+    second: {fileID: 2100000, guid: 4dc9a036ba2b3ab4ab1f014a6582250b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_DrainLockMat
+    second: {fileID: 2100000, guid: 27f9be4329ff66940a36c3d2ac760e95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_LastSupplyCap4_pasted__group14Mat
+    second: {fileID: 2100000, guid: c9e78acb77f77e54f85c1068deb982ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_LastSupplyCap6Mat
+    second: {fileID: 2100000, guid: 13f9068583d2a8c45a9b1e72604704aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_LastSupplyHose5Mat
+    second: {fileID: 2100000, guid: d1056589ee5bf384285ca180b8883919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_PatientHoseMat
+    second: {fileID: 2100000, guid: bffba1898efccc944b29fd33d3aaaebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_SupplyHose6Mat
+    second: {fileID: 2100000, guid: f1b8f990ce67a01459064df29df0321b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_SupplyHose7Mat
+    second: {fileID: 2100000, guid: 9704356f34da3304d922af721fa9223c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_SupplyHoseMat
+    second: {fileID: 2100000, guid: 2d014895a56deb84d94368a13292101e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_SupplyHoseYMat
+    second: {fileID: 2100000, guid: 0142cc499cac4244991623c2f42a8df4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_SupplyLockMat
+    second: {fileID: 2100000, guid: 2855b8183ac4f304983988b092935859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_pasted__Organizer1_pasted__group11_pasted__polySurface7Mat
+    second: {fileID: 2100000, guid: c880a1d54264d9c49acefb3661784162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group_pasted__group19_DrainCap7Mat
+    second: {fileID: 2100000, guid: 97f4cdf1247c6154180a23ce4918979a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__group12_group_DrainCap6_pasted__group17Mat
+    second: {fileID: 2100000, guid: 651b6e21a81f1a34fa825e0fed0730f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__group12_group_OrganizerCaps2_pCylinder13_pasted__group16Mat
+    second: {fileID: 2100000, guid: cd03106d48f2f5448befc1eb744bca2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__group12_group_SupplyCap_pasted__group15Mat
+    second: {fileID: 2100000, guid: a16cee9e99a1a4c4a8e7dbe3f70338b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__group18_pasted__group12_group_OrganizerCaps2_HeaterLineMat
+    second: {fileID: 2100000, guid: 0200fe8c80cbb58418a04c0514ac8bd9, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

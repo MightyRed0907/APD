@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 67a0383986936c94fa10a2caa1263f7b
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirconClose1Mat
+    second: {fileID: 2100000, guid: 0439a2f432348e646b5af210023e6282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed1Mat
+    second: {fileID: 2100000, guid: 36edfe135674bab4da2835221fa1551b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedFoamMat
+    second: {fileID: 2100000, guid: 58bb0556d301a784e85c91b18cd3400b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabinet4Mat
+    second: {fileID: 2100000, guid: a9fa45796b0515a4791422ddcbe2dc61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabinet6Mat
+    second: {fileID: 2100000, guid: afabdd90b9295044daa70c9833f5c842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CabinetHandle1Mat
+    second: {fileID: 2100000, guid: 16949aec96041da4b905d169320d9382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CabinetHandleMat
+    second: {fileID: 2100000, guid: a442bde7ed730af4099a26268bbc296f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CabinetMat
+    second: {fileID: 2100000, guid: 5bb0163908d23b046bdac8468cd89219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CasingFrameBath_DoorBath2Mat
+    second: {fileID: 2100000, guid: 3d2538c32de5eee418599af8458fd035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DividerMat
+    second: {fileID: 2100000, guid: 7ee5aee948b9cd34d852d8460fd153d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorBath2_DoorBath1Mat
+    second: {fileID: 2100000, guid: 58baa34966138e24ea8f59de326095af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorBath2_DorrKnobBath_DoorBath1Mat
+    second: {fileID: 2100000, guid: 6baa49ba4c618ef419cffd6b5ddb1f0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorFront1_CasingFrameFrontMat
+    second: {fileID: 2100000, guid: 58b047c6f09e095488f9255acbd0724f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorFront1_DoorKnobFront_DoorKnobMat
+    second: {fileID: 2100000, guid: e9008cd27266a1644817aabcd00db50a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorFront1_DoorKnobMat
+    second: {fileID: 2100000, guid: 7fc1a02012656f44ab960f538cb1ac41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ExhaustMat
+    second: {fileID: 2100000, guid: c617b7aec2931a043a056b6c87808645, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fridge1Mat
+    second: {fileID: 2100000, guid: 8b4c5b05bee52f94d9c39acdfb13ab83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_WindowFrame_pCube22Mat
+    second: {fileID: 2100000, guid: 8e443f0acff62d74d81da16ca577820d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_pCube3Mat
+    second: {fileID: 2100000, guid: 7928a7ee3c3e2734aa3ac7b36bb80ff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OnSwitch2Mat
+    second: {fileID: 2100000, guid: b1490e6204a44c44d9009841ce181b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OutWall_pCube31Mat
+    second: {fileID: 2100000, guid: bc65842e1febe4f4ca703ca2ba12f3c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PillowMat
+    second: {fileID: 2100000, guid: 25a91012bfebd62499a012d454f66f6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SinkMat
+    second: {fileID: 2100000, guid: f8ed4f14703310e41a4cad05221ac7cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StoveExhaustMat
+    second: {fileID: 2100000, guid: b25deedf65923214e97d1b8f6f3f5c67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindiCasingFrame_DoorFront1Mat
+    second: {fileID: 2100000, guid: b5c8d0aa7e702df4681c0c9cf4f412eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowFrame_pCube22Mat
+    second: {fileID: 2100000, guid: 45dd27ef3521e174aafb31502c40d1ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube22_WindowFrame2Mat
+    second: {fileID: 2100000, guid: c1252647e81f7c94c9fe57e41368aabd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube22_WindowFrame2_GlassMat
+    second: {fileID: 2100000, guid: a7e42d4850fc04d4194c135c8ad7e969, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube24Mat
+    second: {fileID: 2100000, guid: 12d26ec25bbcaba499e31f72882e84b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube25Mat
+    second: {fileID: 2100000, guid: 81e941c0c3e74844689ef102d7698778, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube29Mat
+    second: {fileID: 2100000, guid: c70d808920cc953468b29365dfab65a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube31_InteriorWallMat
+    second: {fileID: 2100000, guid: edeb0fca58949df489172da8be1fa217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube38Mat
+    second: {fileID: 2100000, guid: d514c954feb86d744b97683b78685893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube6Mat
+    second: {fileID: 2100000, guid: 9536a477118d72e4db1e9c2a609388a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane5Mat
+    second: {fileID: 2100000, guid: 95cbd737cb8277949be151adcbf72d5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane6Mat
+    second: {fileID: 2100000, guid: d52b4b4ea56122342bc3f6f6d168ae3b, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
